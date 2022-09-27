@@ -1,0 +1,9 @@
+.cart-container{    
+    background-color:#a5a5ec;
+    color:#fff
+}
+.cart{
+    position:fixed;
+    top:0;
+    padding:30px 20px;
+}
